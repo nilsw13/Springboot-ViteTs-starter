@@ -11,10 +11,8 @@ frontend/node
 *.log.*
 
 
-application.properties
-application-dev.properties
-application-prod.properties
-application-test.properties
+src/main/ressources/application.properties
+
 
 ### STS ###
 .apt_generated
