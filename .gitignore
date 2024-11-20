@@ -6,6 +6,16 @@ target/
 node
 frontend/node
 
+.env
+*.log
+*.log.*
+
+
+application.properties
+application-dev.properties
+application-prod.properties
+application-test.properties
+
 ### STS ###
 .apt_generated
 .classpath
